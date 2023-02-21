@@ -2,17 +2,7 @@
 
 ### DESIGNED A FIXED PRIORITY ARBITER in VERILOG.
 
-![](https://github.com/anandbaheti/VLSICLUB_TRAINING/blob/main/FPA/RTL%20SCHEMATIC.JPG)
-RTL SCHEMATIC of FPA.
-
-![](https://github.com/anandbaheti/VLSICLUB_TRAINING/blob/main/FPA/waveform.JPG)
-BEHAVIORAL LEVEL SIMULATION.
-
 ### DESIGNED A ROUND ROBIN ARBITER in VERILOG.
-
-![](https://github.com/anandbaheti/VLSICLUB_TRAINING/blob/main/RRA/RTL%20SCHEMATIC.JPG).
-
-
 
 ### DESIGNED A VENDING MACHINE in VERILOG.
 
